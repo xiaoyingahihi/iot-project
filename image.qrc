@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="myimage">
+    <file>naruto.jpg</file>
+    <file>sasuke.jpg</file>
+    <file>pkm.jpg</file>
+    <file>logot1.png</file>
+    <file>fan_1.png</file>
+    <file>fan_2.png</file>
+    <file>fan_3.png</file>
+    <file>lamp_1.png</file>
+    <file>lamp_2.png</file>
+    <file>lamp_3.png</file>
+    <file>logot1.png</file>
+    <file>narutobg.jpg</file>
+    <file>pkm.jpg</file>
+    <file>tv_1.png</file>
+    <file>tv_2.png</file>
+    <file>vt_3.png</file>
+    <file>narutobg.jpg</file>
+  </qresource>
+</RCC>
